@@ -1,8 +1,8 @@
 .para  {
-  font-size: 50px;
+  font-size: 60px;
   text-align:  center;
   color: #1e1e1e;
-  line-height: 450px;
+  line-height: 650px;
   font-style: oblique;
 }
 
@@ -11,9 +11,4 @@ body {
   background-attachment:  fixed;
   background-size: cover;
   background-position: center;
-}
-
-* {
-  margin: 10;
-  padding: 10;
 }
