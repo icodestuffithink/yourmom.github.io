@@ -1,0 +1,22 @@
+.para  {
+  font-size: 30px;
+  text-align:  center;
+  color: #1e1e1e;
+  line-height: 450px;
+  font-style: oblique;
+  width: 50%
+  padding: 40px;
+  margin: 100px auto;
+}
+
+body {
+  background-image:url("img/wb.jpg");
+  background-attachment:  fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+* {
+  margin: 10;
+  padding: 10;
+}
